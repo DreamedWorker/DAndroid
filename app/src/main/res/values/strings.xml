@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DAndroid</string>
+    <string name="hello_world">HelloWorld</string>
+	<string name="main_welcome">让你的安卓开发之路畅通无阻</string>
+	
+	<string name="buttom_item_home">首页</string>
+	<string name="buttom_item_code">代码</string>
+	<string name="buttom_item_teach">教程</string>
+    
+    <string name="home_public_texts">程序通告</string>
+    <string name="home_public_texts_context_pack1">各位开发者们，欢迎你们下载和使用本软件！软件是完全基于安卓开发所编写的，并且代码也都是JAVA代码。因此，在使用之前，你务必要有JAVA基础！</string>
+    <string name="home_public_texts_context_pack2">本软件是一个开源软件，当然我们也使用了其他的开源SDK，你可以在程序的“开源相关”中了解更多信息。</string>
+    <string name="home_have_in_common">相关推荐</string>
+    <string name="home_aide_download">AIDE开发工具下载</string>
+    <string name="home_intro_for_aide">一款适合安卓开发的IDE工具</string>
+    <string name="home_android_dev_website">安卓开发官网（中国站）</string>
+    <string name="home_intro_for_dev">Google为中国安卓开发者开设的专属网站</string>
+    
+</resources>
